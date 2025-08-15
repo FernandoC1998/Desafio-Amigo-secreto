@@ -5,4 +5,4 @@ function agregarNombres(){
     console.log (nombreNuevo);
 }
 
-
+agregarNombres();
